@@ -1,5 +1,0 @@
-bool ifPalinfrome(char *str)
-{
-    
-}
-
