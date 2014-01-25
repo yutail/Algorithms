@@ -1,0 +1,5 @@
+bool ifPalinfrome(char *str)
+{
+    
+}
+
